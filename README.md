@@ -1,2 +1,3 @@
 # FuchsLife
-FuchsLife GitHub Page
+Guthub Page of FuchsLife.
+A German FiveM Server
