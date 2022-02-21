@@ -1,0 +1,2 @@
+# FuchsLife
+FuchsLife GitHub Page
